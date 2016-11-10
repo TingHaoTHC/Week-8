@@ -1,0 +1,3 @@
+var myString = "Ting Hao";
+var myNumber = 3;
+var myBoolean = true;
